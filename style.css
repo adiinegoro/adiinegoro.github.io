@@ -1,0 +1,22 @@
+.jumbotron{
+	padding-top: 6rem;
+	/*background-color: #e2edff;*/
+	/*background:linear-gradient(to right,#74ebd5,#c4e0e5,#4ca1af);*/
+	/*background:linear-gradient(to right, #ada996,#f2f2f2,#dbdbdb,#eaeaea);*/
+	background-image: url("img/background.jpg");
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+	background-position: bottom right;
+
+}#projects{
+	background:linear-gradient(to right, #ffefba,#ffffff);
+
+}section{
+	padding-top: 5rem;
+
+}.fixed-top{
+	background: linear-gradient(to right, #0f0c29,#302b63,#24243e);
+
+}footer{
+	background: linear-gradient(to right, #0f0c29,#302b63,#24243e);
+}
